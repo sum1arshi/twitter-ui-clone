@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+/* Add your custom styles */
+@layer utilities {
+    .custom-box-shadow {
+      box-shadow: rgba(217, 217, 217, 0.2) 0px 0px 5px, rgba(217, 217, 217, 0.25) 0px 1px 4px;
+    }
+  
+    /* add more class here */
+
+
+
+  }
