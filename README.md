@@ -20,7 +20,7 @@ A responsive Twitter (X) clone built with Tailwind CSS featuring a modern UI ins
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/twitter-clone.git
+   git clone https://github.com/sum1arshi/twitter-ui-clone.git
    ```
 
 2. Open the project folder.
