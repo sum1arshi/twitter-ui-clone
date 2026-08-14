@@ -29,4 +29,4 @@ A responsive Twitter (X) clone built with Tailwind CSS featuring a modern UI ins
 
 ## Author
 
-Your Name
+Arshi Masood
